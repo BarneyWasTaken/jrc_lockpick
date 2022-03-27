@@ -29,7 +29,7 @@ Discord - https://discord.gg/kHn8xT7R9T
 - esx - from es_extended
 #### Progress Bars: (You can use one what you want)
 - [Mythic progbar](https://github.com/HalCroves/mythic_progbar)
-- [OX inventory](https://github.com/overextended/ox_inventory) - notifications from it
+- [OX inventory](https://github.com/overextended/ox_inventory) - Progress bar from it
 - [ProgressBars](https://github.com/EthanPeacock/progressBars)
 - [rprogress](https://github.com/Mobius1/rprogress)
 - [PogressBar](https://github.com/SWRP-PUBLIC/pogressBar)
