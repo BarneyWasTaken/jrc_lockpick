@@ -1,6 +1,8 @@
 # JRC_lockpick
 Simple and advanced script for lockpicking vehicles
 
+Cfx.re Forum - soon..
+Preview - https://www.youtube.com/watch?v=bOum406vhAg
 ### Features
 - Easy install and edit
 - Easy configuration
