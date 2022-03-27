@@ -1,5 +1,5 @@
-# JRC_kevlar
-Simple script with kevlar (bulletrpoof vests)
+# JRC_lockpick
+Simple and advanced script for lockpicking vehicles
 
 ### Features
 - Easy install and edit
