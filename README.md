@@ -1,7 +1,7 @@
 # JRC_lockpick
 Simple and advanced script for lockpicking vehicles
 
-Cfx.re Forum - soon..
+Cfx.re Forum - https://forum.cfx.re/t/free-esx-jrc-lockpick/4831919
 Preview - https://www.youtube.com/watch?v=bOum406vhAg
 ### Features
 - Easy install and edit
