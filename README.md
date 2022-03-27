@@ -34,6 +34,8 @@ Discord - https://discord.gg/kHn8xT7R9T
 - [rprogress](https://github.com/Mobius1/rprogress)
 - [PogressBar](https://github.com/SWRP-PUBLIC/pogressBar)
 
+- [Linden Outlaw alert] (https://github.com/thelindat/linden_outlawalert) 
+
 
 # Made by Иричех2059 <3#0636
 
