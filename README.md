@@ -9,8 +9,8 @@ Discord - https://discord.gg/kHn8xT7R9T
 ### Features
 - Easy install and edit
 - Easy configuration
-- Progress bars
-- Notify
+- 5 types of Progress bars
+- 4 types of Notifications
 
 ### Installation
 - Put `jrc_lockpick` in `resources`
