@@ -17,3 +17,5 @@ ESX.RegisterUsableItem('lockpick', function (source)
 
     TriggerClientEvent('JRC_lockpick:NiceLockpick', source)
 end)
+
+print('^5Made By JRC scripts^7: ^1'..GetCurrentResourceName()..'^7 started ^2successfully^7...')
